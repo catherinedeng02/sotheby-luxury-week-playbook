@@ -1,0 +1,30 @@
+{
+  "title": "Macro \u2014 Cross-Category Luxury Week Performance",
+  "n_lots_total": 1180,
+  "n_lots_sold": 1091,
+  "overall_sell_through": 0.925,
+  "overall_median_premium": 1.357,
+  "best_premium_category": "Modern Collectibles",
+  "best_premium_value": 1.732,
+  "best_sellthrough_category": "Watches",
+  "best_sellthrough_value": 0.959,
+  "category_median_premium": {
+    "Modern Collectibles": 1.732,
+    "Watches": 1.529,
+    "Spirits": 1.312,
+    "Handbags": 1.271,
+    "Wine": 1.245
+  },
+  "category_sell_through": {
+    "Watches": 0.959,
+    "Modern Collectibles": 0.929,
+    "Handbags": 0.925,
+    "Spirits": 0.911,
+    "Wine": 0.875
+  },
+  "figures": [
+    "01_macro_heatmap.png",
+    "01_macro_sellthrough.png"
+  ],
+  "takeaway": "Modern Collectibles achieved the highest median premium (1.73x mid-estimate) across the study window; Watches led on sell-through (95.9%)."
+}

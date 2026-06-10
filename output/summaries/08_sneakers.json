@@ -1,0 +1,100 @@
+{
+  "title": "Game-Worn Sneakers \u2014 Premium Drivers",
+  "n_lots": 130,
+  "features": [
+    "player",
+    "game_worn",
+    "photo_matched",
+    "signed",
+    "condition",
+    "era"
+  ],
+  "reference_levels": {
+    "player": "Other",
+    "game_worn": "No",
+    "photo_matched": "No",
+    "signed": "No",
+    "condition": "Good",
+    "era": "Post-MJ (1999\u20132015)"
+  },
+  "r_squared": 0.61,
+  "adj_r_squared": 0.563,
+  "n_features": 14,
+  "takeaway_sentences": [
+    "Photo: matched_Yes: +44% vs reference, all else equal.",
+    "Player: Michael Jordan: +39% vs reference, all else equal.",
+    "Condition: Pristine: +29% vs reference, all else equal.",
+    "Signed: Yes: +23% vs reference, all else equal."
+  ],
+  "headline_takeaway": "Photo: matched_Yes: +44% vs reference, all else equal.",
+  "winning_combos": [
+    {
+      "player": "Michael Jordan",
+      "game_worn": "Yes",
+      "photo_matched": "Yes",
+      "mean": 2.3607560883888885,
+      "median": 2.175925925925926,
+      "count": 19
+    },
+    {
+      "player": "Kobe Bryant",
+      "game_worn": "Yes",
+      "photo_matched": "Yes",
+      "mean": 2.3134223037531094,
+      "median": 2.1746031746031744,
+      "count": 9
+    },
+    {
+      "player": "Larry Bird",
+      "game_worn": "Yes",
+      "photo_matched": "Yes",
+      "mean": 2.029029083577611,
+      "median": 2.1096491228070176,
+      "count": 5
+    },
+    {
+      "player": "LeBron James",
+      "game_worn": "Yes",
+      "photo_matched": "Yes",
+      "mean": 1.9654392211030862,
+      "median": 1.8204736925766967,
+      "count": 6
+    },
+    {
+      "player": "Magic Johnson",
+      "game_worn": "Yes",
+      "photo_matched": "Yes",
+      "mean": 1.820434134750916,
+      "median": 1.6693548387096775,
+      "count": 3
+    },
+    {
+      "player": "Kobe Bryant",
+      "game_worn": "Yes",
+      "photo_matched": "No",
+      "mean": 1.658306155520463,
+      "median": 1.66821499668215,
+      "count": 6
+    },
+    {
+      "player": "LeBron James",
+      "game_worn": "Yes",
+      "photo_matched": "No",
+      "mean": 1.687373903588503,
+      "median": 1.6435643564356435,
+      "count": 13
+    },
+    {
+      "player": "Michael Jordan",
+      "game_worn": "No",
+      "photo_matched": "No",
+      "mean": 1.6599843789455955,
+      "median": 1.5947712418300655,
+      "count": 22
+    }
+  ],
+  "figures": [
+    "08_sneakers_coefficients.png",
+    "08_sneakers_combos.png"
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "title": "Japanese Whisky \u2014 Premium Drivers",
+  "n_lots": 164,
+  "features": [
+    "distillery",
+    "cask_type",
+    "label_series",
+    "age_tier",
+    "distill_era"
+  ],
+  "reference_levels": {
+    "distillery": "Yamazaki",
+    "cask_type": "Bourbon",
+    "label_series": "Standard",
+    "age_tier": "20-30Y",
+    "distill_era": "1980+"
+  },
+  "r_squared": 0.535,
+  "adj_r_squared": 0.491,
+  "n_features": 14,
+  "takeaway_sentences": [
+    "Distillery: Karuizawa: +59% vs reference, all else equal.",
+    "Label: series_Ichiro's Card Series: +41% vs reference, all else equal.",
+    "Cask: type_Mizunara: +25% vs reference, all else equal.",
+    "Distillery: Hanyu Ichiro's: +25% vs reference, all else equal."
+  ],
+  "headline_takeaway": "Distillery: Karuizawa: +59% vs reference, all else equal.",
+  "winning_combos": [
+    {
+      "distillery": "Karuizawa",
+      "cask_type": "Bourbon",
+      "label_series": "Vintage release",
+      "mean": 1.9859624092169026,
+      "median": 2.0588320115356886,
+      "count": 4
+    },
+    {
+      "distillery": "Hanyu Ichiro's",
+      "cask_type": "Sherry",
+      "label_series": "Standard",
+      "mean": 1.798700281548026,
+      "median": 1.8754027926960257,
+      "count": 3
+    },
+    {
+      "distillery": "Yoichi",
+      "cask_type": "Bourbon",
+      "label_series": "Ichiro's Card Series",
+      "mean": 1.635324393179619,
+      "median": 1.820069204152249,
+      "count": 3
+    },
+    {
+      "distillery": "Karuizawa",
+      "cask_type": "Bourbon",
+      "label_series": "Standard",
+      "mean": 1.8057358824441856,
+      "median": 1.7969089390142021,
+      "count": 8
+    },
+    {
+      "distillery": "Hanyu Ichiro's",
+      "cask_type": "Bourbon",
+      "label_series": "Ichiro's Card Series",
+      "mean": 1.764367218395586,
+      "median": 1.7076023391812865,
+      "count": 3
+    },
+    {
+      "distillery": "Hanyu Ichiro's",
+      "cask_type": "Bourbon",
+      "label_series": "Standard",
+      "mean": 1.6534732510556793,
+      "median": 1.701657458563536,
+      "count": 7
+    },
+    {
+      "distillery": "Hanyu Ichiro's",
+      "cask_type": "Refill",
+      "label_series": "Vintage release",
+      "mean": 1.5444226119722808,
+      "median": 1.641025641025641,
+      "count": 3
+    },
+    {
+      "distillery": "Yamazaki",
+      "cask_type": "Bourbon",
+      "label_series": "Cask strength",
+      "mean": 1.3087523801979268,
+      "median": 1.4024390243902438,
+      "count": 3
+    }
+  ],
+  "figures": [
+    "07_whisky_coefficients.png",
+    "07_whisky_combos.png"
+  ]
+}

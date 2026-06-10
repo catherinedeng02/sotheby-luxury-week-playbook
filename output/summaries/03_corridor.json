@@ -1,0 +1,42 @@
+{
+  "title": "HK\u2013NY Buyer Corridor",
+  "n_pairs": 80,
+  "overall_paired_t": -1.111,
+  "overall_p_value": 0.2699,
+  "by_category": [
+    {
+      "category": "Herm\u00e8s Handbag",
+      "n_pairs": 31,
+      "hk_median": 1.155,
+      "ny_median": 0.999,
+      "median_log_ratio": 0.119,
+      "hk_advantage_pct": 12.675
+    },
+    {
+      "category": "Patek Philippe Calatrava",
+      "n_pairs": 17,
+      "hk_median": 1.027,
+      "ny_median": 1.209,
+      "median_log_ratio": -0.129,
+      "hk_advantage_pct": -12.11
+    },
+    {
+      "category": "Vintage Rolex Daytona",
+      "n_pairs": 32,
+      "hk_median": 1.067,
+      "ny_median": 1.174,
+      "median_log_ratio": -0.145,
+      "hk_advantage_pct": -13.541
+    }
+  ],
+  "routing_recommendations": [
+    "Route Herm\u00e8s Handbag to Hong Kong (+12.7% median premium vs NY)",
+    "Route Patek Philippe Calatrava to New York (-12.1% HK disadvantage)",
+    "Route Vintage Rolex Daytona to New York (-13.5% HK disadvantage)"
+  ],
+  "figures": [
+    "03_corridor_paired.png",
+    "03_corridor_distribution.png"
+  ],
+  "headline_takeaway": "Route Herm\u00e8s Handbag to Hong Kong (+12.7% median premium vs NY)"
+}

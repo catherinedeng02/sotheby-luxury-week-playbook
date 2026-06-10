@@ -1,0 +1,98 @@
+{
+  "title": "Patek Philippe Calatrava \u2014 Premium Drivers",
+  "n_lots": 151,
+  "features": [
+    "reference",
+    "case_material",
+    "dial_color",
+    "extract_archives",
+    "original_papers"
+  ],
+  "reference_levels": {
+    "reference": "3444",
+    "case_material": "Yellow gold",
+    "dial_color": "Champagne",
+    "extract_archives": "No",
+    "original_papers": "No"
+  },
+  "r_squared": 0.703,
+  "adj_r_squared": 0.667,
+  "n_features": 16,
+  "takeaway_sentences": [
+    "Dial: color_Salmon: +58% vs reference, all else equal.",
+    "Case: material_Stainless steel: +52% vs reference, all else equal.",
+    "Original: papers_Yes: +36% vs reference, all else equal.",
+    "Extract: archives_Yes: +24% vs reference, all else equal."
+  ],
+  "headline_takeaway": "Dial: color_Salmon: +58% vs reference, all else equal.",
+  "winning_combos": [
+    {
+      "case_material": "Yellow gold",
+      "original_papers": "Yes",
+      "dial_color": "Black",
+      "mean": 2.3560343818183296,
+      "median": 2.1885245901639343,
+      "count": 5
+    },
+    {
+      "case_material": "Yellow gold",
+      "original_papers": "Yes",
+      "dial_color": "Opaline",
+      "mean": 2.1372838310752553,
+      "median": 2.0772021860965095,
+      "count": 4
+    },
+    {
+      "case_material": "Yellow gold",
+      "original_papers": "No",
+      "dial_color": "Salmon",
+      "mean": 1.8914461341113613,
+      "median": 1.797041148262768,
+      "count": 4
+    },
+    {
+      "case_material": "Platinum",
+      "original_papers": "Yes",
+      "dial_color": "Champagne",
+      "mean": 1.8128715931350239,
+      "median": 1.7414664981036663,
+      "count": 4
+    },
+    {
+      "case_material": "Stainless steel",
+      "original_papers": "No",
+      "dial_color": "Silver",
+      "mean": 1.7249854224921704,
+      "median": 1.7366777667975986,
+      "count": 4
+    },
+    {
+      "case_material": "Stainless steel",
+      "original_papers": "No",
+      "dial_color": "Champagne",
+      "mean": 1.832880684969706,
+      "median": 1.702127659574468,
+      "count": 3
+    },
+    {
+      "case_material": "White gold",
+      "original_papers": "Yes",
+      "dial_color": "Silver",
+      "mean": 1.807977186314177,
+      "median": 1.6905901116427433,
+      "count": 3
+    },
+    {
+      "case_material": "White gold",
+      "original_papers": "Yes",
+      "dial_color": "Champagne",
+      "mean": 1.566221188091902,
+      "median": 1.6164383561643836,
+      "count": 3
+    }
+  ],
+  "figures": [
+    "05_patek_coefficients.png",
+    "05_patek_combos.png"
+  ]
+}

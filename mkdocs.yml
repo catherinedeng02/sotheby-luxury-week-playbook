@@ -1,0 +1,54 @@
+site_name: The Sotheby's Luxury Week Playbook
+site_description: >
+  Cross-category performance, premium drivers, and the HK–NY buyer corridor,
+  2021–2026. An independent market intelligence report.
+site_author: Zhuoyao Deng
+site_url: https://catherinedeng02.github.io/sotheby-luxury-week-playbook/
+
+repo_name: catherinedeng02/sotheby-luxury-week-playbook
+repo_url: https://github.com/catherinedeng02/sotheby-luxury-week-playbook
+
+# Single-page report: only one nav entry. Section navigation is provided
+# by the (repositioned) table of contents, which scroll-spies the headings.
+nav:
+  - index.md
+
+theme:
+  name: material
+  favicon: assets/favicon.svg
+  palette:
+    - scheme: default
+      primary: custom
+      accent: custom
+  font: false
+  features:
+    - navigation.top
+    - toc.follow          # left TOC auto-scrolls to keep active item visible
+    - content.code.copy
+    - search.suggest
+    - search.highlight
+  icon:
+    repo: fontawesome/brands/github
+
+extra_css:
+  - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/progress.js
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - footnotes
+  - tables
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+
+extra:
+  generator: false

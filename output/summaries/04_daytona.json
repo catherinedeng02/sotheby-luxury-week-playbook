@@ -1,0 +1,100 @@
+{
+  "title": "Vintage Rolex Daytona \u2014 Premium Drivers",
+  "n_lots": 175,
+  "features": [
+    "reference",
+    "dial_type",
+    "bezel",
+    "movement",
+    "papers",
+    "provenance"
+  ],
+  "reference_levels": {
+    "reference": "6263",
+    "dial_type": "Standard",
+    "bezel": "Acrylic",
+    "movement": "Valjoux 727",
+    "papers": "None",
+    "provenance": "Single owner"
+  },
+  "r_squared": 0.822,
+  "adj_r_squared": 0.806,
+  "n_features": 14,
+  "takeaway_sentences": [
+    "Dial: type_Exotic 'Paul Newman': +206% vs reference, all else equal.",
+    "Provenance: Celebrity: +66% vs reference, all else equal.",
+    "Dial: type_Tropical: +37% vs reference, all else equal.",
+    "Provenance: Named collection: +22% vs reference, all else equal."
+  ],
+  "headline_takeaway": "Dial: type_Exotic 'Paul Newman': +206% vs reference, all else equal.",
+  "winning_combos": [
+    {
+      "dial_type": "Exotic 'Paul Newman'",
+      "papers": "Full set",
+      "provenance": "Single owner",
+      "mean": 4.715729890678821,
+      "median": 4.780876494023905,
+      "count": 9
+    },
+    {
+      "dial_type": "Exotic 'Paul Newman'",
+      "papers": "Partial papers",
+      "provenance": "Named collection",
+      "mean": 4.913054758897026,
+      "median": 4.621168936517747,
+      "count": 4
+    },
+    {
+      "dial_type": "Exotic 'Paul Newman'",
+      "papers": "Partial papers",
+      "provenance": "Single owner",
+      "mean": 3.2537982168200963,
+      "median": 3.6408510638297873,
+      "count": 5
+    },
+    {
+      "dial_type": "Tropical",
+      "papers": "Full set",
+      "provenance": "Single owner",
+      "mean": 2.5305335664216124,
+      "median": 2.4662576687116564,
+      "count": 3
+    },
+    {
+      "dial_type": "Tropical",
+      "papers": "Partial papers",
+      "provenance": "Named collection",
+      "mean": 2.073144873573024,
+      "median": 2.0258100703283426,
+      "count": 4
+    },
+    {
+      "dial_type": "Standard",
+      "papers": "Full set",
+      "provenance": "Single owner",
+      "mean": 1.8135665577690934,
+      "median": 1.896774193548387,
+      "count": 9
+    },
+    {
+      "dial_type": "Tropical",
+      "papers": "Partial papers",
+      "provenance": "Single owner",
+      "mean": 1.9118638734220017,
+      "median": 1.8706468590804348,
+      "count": 10
+    },
+    {
+      "dial_type": "Standard",
+      "papers": "Full set",
+      "provenance": "Named collection",
+      "mean": 1.9509904734801065,
+      "median": 1.826892703456755,
+      "count": 6
+    }
+  ],
+  "figures": [
+    "04_daytona_coefficients.png",
+    "04_daytona_combos.png"
+  ]
+}

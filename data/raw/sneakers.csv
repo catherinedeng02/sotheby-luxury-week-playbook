@@ -1,0 +1,141 @@
+lot_id,sale_date,sale_location,player,model,season,game_worn,photo_matched,signed,condition,low_estimate,high_estimate,hammer_price,buyer_region
+SN-6001,2025-02-17 00:23:08.642545408,Hong Kong,Michael Jordan,Converse,1996,True,True,False,Heavily worn,3600,9400,13600.0,Asia
+SN-6002,2022-12-02 18:05:35.310141440,Hong Kong,Kobe Bryant,Air Jordan 1,1998,True,False,True,Good,4200,9500,10400.0,Europe
+SN-6003,2025-11-28 04:37:28.840692736,New York,Michael Jordan,Air Jordan 1,2012,False,False,True,Very Good,5300,13600,15000.0,Other
+SN-6004,2022-03-02 03:11:03.621237760,New York,Larry Bird,Nike Air Ship,1988,True,True,False,Very Good,8500,21100,28400.0,Other
+SN-6005,2025-03-29 08:49:07.799275520,Hong Kong,Magic Johnson,Air Jordan 13,2021,False,False,False,Very Good,7300,18500,15500.0,Asia
+SN-6006,2022-01-28 12:18:07.186347008,New York,Michael Jordan,Air Jordan 1,1989,False,False,True,Good,3200,8000,6500.0,Asia
+SN-6007,2022-01-19 13:35:17.069971968,New York,Michael Jordan,Air Jordan 13,2010,True,True,False,Very Good,13000,33700,,Asia
+SN-6008,2023-05-18 10:16:40.922156800,New York,Michael Jordan,Converse,1984,False,False,False,Good,10600,25100,28600.0,Asia
+SN-6009,2026-01-13 20:30:18.854567424,New York,Michael Jordan,Air Jordan 11,2016,True,True,False,Good,3500,7500,17600.0,Asia
+SN-6010,2024-02-14 07:05:18.746474240,New York,Magic Johnson,Air Jordan 1,2011,True,False,False,Heavily worn,12500,27900,18200.0,US
+SN-6011,2024-05-20 18:34:34.759832576,Hong Kong,Kobe Bryant,Converse,2017,True,True,False,Pristine,7300,17900,27400.0,US
+SN-6012,2021-01-19 22:33:17.045907200,New York,Michael Jordan,Converse,2021,True,True,False,Very Good,5500,11400,14300.0,Asia
+SN-6013,2021-04-21 04:09:23.461639168,New York,LeBron James,Adidas Crazy 8,2017,True,True,True,Heavily worn,7400,19000,31800.0,US
+SN-6014,2021-05-11 06:05:12.244100864,New York,Kobe Bryant,Air Jordan 1,2008,True,False,True,Good,5900,12500,13800.0,US
+SN-6015,2025-05-15 00:34:05.251361536,Hong Kong,Michael Jordan,Adidas Crazy 8,2017,False,False,False,Good,8300,21000,14600.0,US
+SN-6016,2022-04-06 21:56:29.380564736,New York,Michael Jordan,Converse,1987,True,False,True,Good,6700,15400,14800.0,Europe
+SN-6017,2022-10-02 22:03:30.871324160,New York,Michael Jordan,Converse,2009,False,False,True,Heavily worn,4900,12300,7400.0,Other
+SN-6018,2024-04-01 23:14:04.463116544,New York,Kobe Bryant,Air Jordan 11,2023,True,True,False,Very Good,1800,4600,6400.0,Asia
+SN-6019,2024-02-11 09:00:08.826050304,New York,Michael Jordan,Air Jordan 1,1999,True,False,True,Heavily worn,8200,18500,18300.0,Europe
+SN-6020,2023-03-10 21:22:10.755971072,New York,Kobe Bryant,Air Jordan 13,2023,True,True,True,Very Good,4800,11600,19300.0,Europe
+SN-6021,2021-01-09 08:50:12.561543936,New York,Michael Jordan,Air Jordan 1,2004,True,True,False,Heavily worn,9600,20400,28500.0,US
+SN-6022,2023-05-25 22:14:19.194623744,New York,LeBron James,Air Jordan 1,2002,True,True,True,Very Good,8000,19900,38500.0,US
+SN-6023,2024-12-08 20:46:25.264516608,New York,Michael Jordan,Adidas Crazy 8,1996,False,False,False,Very Good,4900,12100,19700.0,US
+SN-6024,2022-04-03 18:37:01.138656256,New York,Kobe Bryant,Air Jordan 1,1988,False,False,True,Pristine,11100,24100,20300.0,US
+SN-6025,2024-10-10 11:09:09.042582272,New York,Michael Jordan,Adidas Crazy 8,2019,True,False,False,Heavily worn,6800,13700,12300.0,Asia
+SN-6026,2021-01-30 11:41:50.268286208,Hong Kong,Michael Jordan,Air Jordan 13,2012,True,False,True,Heavily worn,6600,15000,16200.0,US
+SN-6027,2025-11-02 23:35:47.373741312,Hong Kong,Michael Jordan,Converse,2000,True,True,False,Very Good,5500,11600,18500.0,Europe
+SN-6028,2026-01-23 18:37:52.155681792,New York,Kobe Bryant,Air Jordan 1,2022,True,True,True,Very Good,16500,41000,,Asia
+SN-6029,2021-01-05 18:57:40.038698240,New York,LeBron James,Nike Air Ship,1991,True,False,True,Very Good,3900,8400,13500.0,US
+SN-6030,2023-06-10 21:57:04.314309632,New York,Michael Jordan,Air Jordan 13,2015,False,False,False,Very Good,4900,12700,,Other
+SN-6031,2023-03-17 07:08:23.628864512,New York,LeBron James,Adidas Crazy 8,2002,False,False,True,Heavily worn,2900,7400,7100.0,Other
+SN-6032,2025-06-27 07:19:12.917512704,Hong Kong,Kobe Bryant,Air Jordan 1,2008,True,False,False,Pristine,9300,23600,16800.0,Asia
+SN-6033,2023-11-19 05:51:40.324183040,New York,Kobe Bryant,Air Jordan 1,1985,True,True,True,Heavily worn,4200,10000,12100.0,Asia
+SN-6034,2024-04-04 17:12:46.468416000,New York,Kobe Bryant,Adidas Crazy 8,2008,True,False,True,Heavily worn,4500,9800,13000.0,Other
+SN-6035,2022-01-30 01:50:25.325333760,Hong Kong,Michael Jordan,Air Jordan 1,2011,False,False,True,Very Good,4400,10900,16500.0,Asia
+SN-6036,2021-05-30 23:13:41.714888448,Hong Kong,LeBron James,Nike Air Ship,2023,True,False,False,Good,6200,15100,16200.0,Europe
+SN-6037,2024-09-09 06:37:53.626142464,Hong Kong,LeBron James,Air Jordan 1,1997,True,False,True,Heavily worn,2800,7300,8300.0,US
+SN-6038,2024-04-22 20:03:05.504184576,Hong Kong,LeBron James,Air Jordan 1,1986,True,True,True,Heavily worn,1600,3500,3300.0,Asia
+SN-6039,2025-06-08 17:04:52.291037952,New York,Michael Jordan,Air Jordan 13,1986,False,False,False,Good,7900,16100,22900.0,US
+SN-6040,2025-07-02 18:05:44.625601536,New York,LeBron James,Air Jordan 13,1989,False,False,True,Pristine,1700,4400,6200.0,US
+SN-6041,2024-05-12 23:52:17.168275200,New York,Michael Jordan,Air Jordan 13,1995,True,True,False,Pristine,10000,25100,43400.0,US
+SN-6042,2023-11-14 15:37:48.105516800,New York,Kobe Bryant,Air Jordan 11,2017,True,False,False,Heavily worn,15300,32600,44900.0,US
+SN-6043,2025-11-14 15:50:31.905346048,New York,Michael Jordan,Converse,1991,False,False,False,Very Good,5400,13200,13800.0,US
+SN-6044,2025-04-09 06:14:24.723047936,New York,Michael Jordan,Adidas Crazy 8,1989,True,False,False,Good,13100,26200,19000.0,US
+SN-6045,2025-09-14 04:46:37.073876736,New York,LeBron James,Air Jordan 1,1985,True,False,True,Good,5900,13800,18000.0,US
+SN-6046,2026-04-22 21:45:11.926758912,Hong Kong,Larry Bird,Air Jordan 11,1999,False,False,False,Good,15700,34700,20500.0,Europe
+SN-6047,2023-02-25 05:20:03.522649856,New York,Michael Jordan,Air Jordan 11,2008,True,False,False,Very Good,4600,10200,16600.0,Asia
+SN-6048,2024-10-27 03:42:59.283458048,New York,Kobe Bryant,Converse,1995,True,False,True,Very Good,1500,3100,5100.0,Asia
+SN-6049,2024-08-31 23:31:09.273272320,Hong Kong,LeBron James,Air Jordan 11,2003,True,False,False,Heavily worn,5700,12400,7900.0,US
+SN-6050,2021-12-05 21:09:40.620582400,Hong Kong,Other,Nike Air Ship,1993,False,False,False,Very Good,16700,38000,36200.0,Europe
+SN-6051,2024-05-23 17:21:56.880229888,New York,LeBron James,Air Jordan 11,2016,False,False,False,Pristine,8300,17800,20600.0,US
+SN-6052,2023-04-14 01:28:53.546333952,New York,Michael Jordan,Nike Air Ship,1985,True,False,True,Heavily worn,4400,10000,10800.0,US
+SN-6053,2023-05-27 22:29:04.562414848,Hong Kong,Michael Jordan,Converse,1992,False,False,False,Good,7300,17100,15100.0,US
+SN-6054,2021-12-17 13:09:52.841317888,New York,LeBron James,Air Jordan 13,2006,False,False,False,Good,10700,26100,22800.0,Europe
+SN-6055,2024-12-20 06:18:23.118963456,New York,Michael Jordan,Air Jordan 11,2017,False,False,False,Heavily worn,5700,13700,8500.0,Other
+SN-6056,2024-09-20 04:38:09.534959616,Hong Kong,Larry Bird,Air Jordan 1,2000,True,True,True,Good,29000,62200,96200.0,Asia
+SN-6057,2023-11-02 20:04:43.147045376,New York,Larry Bird,Air Jordan 13,1986,True,True,True,Heavily worn,4400,8900,11300.0,Asia
+SN-6058,2021-11-01 23:24:47.185238784,New York,Other,Air Jordan 1,2006,False,False,True,Heavily worn,10900,27400,12000.0,US
+SN-6059,2023-12-20 15:48:46.567149312,New York,Michael Jordan,Converse,1994,True,False,True,Very Good,9500,23900,22100.0,Asia
+SN-6060,2021-07-14 20:37:52.852635904,New York,LeBron James,Air Jordan 11,1996,True,False,False,Very Good,3900,10200,11100.0,US
+SN-6061,2022-10-23 10:01:51.992212480,New York,LeBron James,Air Jordan 1,2020,True,False,True,Very Good,4700,12000,10000.0,US
+SN-6062,2022-12-26 14:36:02.483247104,New York,Michael Jordan,Air Jordan 1,2021,False,False,True,Good,11100,26300,24000.0,Other
+SN-6063,2025-09-16 03:29:58.319585792,New York,Michael Jordan,Air Jordan 13,1994,True,False,False,Good,6500,16600,12300.0,Other
+SN-6064,2023-03-20 16:24:40.217596416,New York,Michael Jordan,Adidas Crazy 8,2007,True,False,False,Good,7300,16700,13100.0,US
+SN-6065,2024-03-10 14:56:12.279477248,Hong Kong,Michael Jordan,Air Jordan 11,2005,True,True,True,Heavily worn,2200,5600,9700.0,US
+SN-6066,2025-08-30 07:40:40.263843584,Hong Kong,Other,Air Jordan 1,2022,True,False,False,Good,8900,22900,,US
+SN-6067,2023-04-09 12:40:07.779514624,New York,Magic Johnson,Air Jordan 11,2021,True,True,True,Heavily worn,7100,17700,20700.0,US
+SN-6068,2025-09-16 16:29:21.124980480,Hong Kong,Michael Jordan,Adidas Crazy 8,1998,True,True,False,Good,5800,13000,17300.0,US
+SN-6069,2021-09-23 13:17:20.904879104,New York,Kobe Bryant,Converse,1985,True,True,True,Good,7500,16600,28900.0,Asia
+SN-6070,2022-12-11 23:38:05.323195648,New York,Michael Jordan,Air Jordan 1,1984,False,False,False,Pristine,4700,10200,15000.0,US
+SN-6071,2021-07-04 08:08:29.185440512,New York,Michael Jordan,Nike Air Ship,1984,True,False,False,Good,4200,9300,13000.0,US
+SN-6072,2023-12-28 13:39:26.661431296,Hong Kong,Michael Jordan,Converse,2015,False,False,True,Good,5200,12900,17400.0,US
+SN-6073,2026-02-06 20:54:04.857429504,New York,LeBron James,Converse,2013,True,False,False,Very Good,4500,11000,14300.0,Asia
+SN-6074,2024-07-02 10:16:42.660639744,New York,LeBron James,Air Jordan 13,2017,True,True,True,Heavily worn,22200,47700,64600.0,US
+SN-6075,2024-05-03 08:14:08.277561344,New York,Magic Johnson,Converse,1989,True,True,False,Good,10400,25200,22700.0,US
+SN-6076,2022-06-26 07:07:14.737020672,New York,Larry Bird,Air Jordan 13,1986,True,True,True,Very Good,3400,7500,11600.0,Asia
+SN-6077,2025-12-17 22:24:36.197043456,New York,Michael Jordan,Air Jordan 1,1990,True,True,False,Heavily worn,20400,47500,60500.0,Asia
+SN-6078,2023-07-07 14:33:38.117390592,New York,LeBron James,Air Jordan 1,2009,True,False,False,Very Good,4600,10300,9400.0,US
+SN-6079,2022-06-04 14:03:49.987627008,Hong Kong,Michael Jordan,Air Jordan 11,1984,False,False,False,Good,6100,14100,12800.0,Asia
+SN-6080,2026-04-07 01:32:23.590115584,New York,Michael Jordan,Air Jordan 1,2010,True,True,True,Good,10300,25100,55100.0,US
+SN-6081,2023-04-04 09:34:48.734218240,New York,Kobe Bryant,Air Jordan 11,2019,False,False,False,Pristine,1800,4500,7300.0,Asia
+SN-6082,2022-12-24 22:29:18.508039168,Hong Kong,Michael Jordan,Converse,1989,True,False,False,Good,5200,12800,12700.0,US
+SN-6083,2021-03-10 00:49:51.700529152,Hong Kong,Michael Jordan,Converse,2013,True,False,True,Very Good,4300,9500,14900.0,Europe
+SN-6084,2021-12-13 23:05:18.332697344,Hong Kong,Michael Jordan,Air Jordan 1,2006,True,False,False,Very Good,6800,16400,15100.0,Other
+SN-6085,2025-04-24 16:28:22.970264832,New York,Michael Jordan,Air Jordan 1,2021,True,False,True,Good,7500,16100,30300.0,Asia
+SN-6086,2023-07-29 07:47:31.795219712,New York,Other,Nike Air Ship,1993,True,False,True,Pristine,5700,13100,17300.0,Europe
+SN-6087,2026-02-02 04:28:09.286731264,Hong Kong,Michael Jordan,Air Jordan 13,1993,True,True,False,Heavily worn,5600,13100,20300.0,US
+SN-6088,2021-06-13 05:48:09.193515008,New York,Kobe Bryant,Air Jordan 1,1984,True,True,True,Very Good,11400,27400,80200.0,Asia
+SN-6089,2024-04-13 15:01:21.121594880,New York,Other,Converse,2012,False,False,True,Very Good,7200,18300,13800.0,US
+SN-6090,2024-11-02 02:08:22.656706816,New York,Kobe Bryant,Air Jordan 1,2018,True,True,False,Heavily worn,6200,13400,15100.0,US
+SN-6091,2024-04-23 19:44:12.258250240,New York,Michael Jordan,Air Jordan 1,1984,False,False,False,Good,6600,16400,26800.0,US
+SN-6092,2023-10-29 03:24:05.645224704,New York,Larry Bird,Converse,2003,True,False,True,Good,18100,39500,,Asia
+SN-6093,2024-01-31 08:50:41.111156992,New York,Michael Jordan,Nike Air Ship,2012,True,True,True,Good,6700,15500,20900.0,Asia
+SN-6094,2024-09-03 20:43:26.816319488,New York,Michael Jordan,Air Jordan 11,2015,True,False,False,Heavily worn,4400,11000,9900.0,Europe
+SN-6095,2025-08-07 21:51:37.951369728,New York,Kobe Bryant,Nike Air Ship,2021,True,True,False,Very Good,1900,4600,7000.0,Asia
+SN-6096,2022-10-17 12:38:24.960019200,New York,Michael Jordan,Adidas Crazy 8,2012,False,False,False,Pristine,2500,6400,8100.0,Europe
+SN-6097,2023-06-14 11:41:03.022611456,Hong Kong,Magic Johnson,Air Jordan 1,2020,False,False,False,Heavily worn,4500,11300,6400.0,Europe
+SN-6098,2024-05-22 11:31:16.800125952,New York,Michael Jordan,Nike Air Ship,2023,True,False,False,Pristine,5600,12200,11100.0,Europe
+SN-6099,2022-09-04 11:08:30.614835968,New York,Kobe Bryant,Air Jordan 1,2021,True,True,False,Good,4300,11200,18300.0,US
+SN-6100,2021-12-14 21:52:29.896228096,New York,LeBron James,Air Jordan 11,2001,False,False,True,Good,7400,19000,19000.0,US
+SN-6101,2026-02-24 03:56:44.219637248,New York,Other,Air Jordan 11,2000,True,True,True,Good,4300,9600,15500.0,Asia
+SN-6102,2022-01-14 22:37:04.880422144,Hong Kong,Michael Jordan,Air Jordan 11,2001,True,True,True,Heavily worn,3500,7000,13500.0,Other
+SN-6103,2022-03-29 21:33:59.355600128,New York,Michael Jordan,Air Jordan 1,2022,True,True,True,Heavily worn,8700,18900,,US
+SN-6104,2024-04-18 23:06:56.292980480,New York,Other,Converse,1995,True,True,True,Pristine,13600,34100,62400.0,US
+SN-6105,2021-05-31 13:24:34.367665920,New York,LeBron James,Air Jordan 11,2014,True,False,False,Good,3100,7900,7500.0,US
+SN-6106,2021-03-08 06:09:41.845627392,New York,Michael Jordan,Adidas Crazy 8,2009,True,False,True,Good,6900,17400,30600.0,US
+SN-6107,2021-05-05 13:41:28.867650048,New York,Michael Jordan,Air Jordan 11,1986,False,False,True,Very Good,1900,4300,11200.0,Europe
+SN-6108,2021-08-28 20:54:19.126002688,Hong Kong,Magic Johnson,Converse,2003,True,False,False,Heavily worn,2500,5000,4100.0,US
+SN-6109,2023-04-16 05:12:36.896814336,New York,Kobe Bryant,Air Jordan 13,1991,False,False,False,Good,4200,9700,8400.0,US
+SN-6110,2025-06-02 17:47:20.732516096,Hong Kong,Kobe Bryant,Air Jordan 11,2013,False,False,True,Very Good,11900,26400,33700.0,Asia
+SN-6111,2022-10-28 11:27:19.062480640,New York,Larry Bird,Converse,2001,True,False,False,Heavily worn,3800,7800,5300.0,US
+SN-6112,2023-04-12 23:25:37.882895104,New York,Michael Jordan,Converse,1998,True,False,False,Heavily worn,3700,7600,6600.0,US
+SN-6113,2024-03-14 02:07:37.343302912,Hong Kong,Michael Jordan,Air Jordan 13,1986,True,False,False,Pristine,6100,12800,34500.0,Asia
+SN-6114,2022-08-11 23:21:11.715595776,New York,Kobe Bryant,Air Jordan 11,1989,False,False,False,Heavily worn,6100,13000,7000.0,US
+SN-6115,2023-04-22 17:14:56.723927040,Hong Kong,Larry Bird,Air Jordan 13,2014,True,False,False,Very Good,3700,9200,10700.0,Other
+SN-6116,2023-01-22 18:18:03.683927296,New York,Michael Jordan,Air Jordan 13,2018,False,False,True,Pristine,19800,44000,57700.0,Asia
+SN-6117,2022-10-28 07:19:44.145201152,New York,LeBron James,Air Jordan 11,1995,True,True,False,Very Good,5100,11600,14100.0,Other
+SN-6118,2023-01-26 19:30:52.514960640,New York,Michael Jordan,Converse,2017,True,True,True,Heavily worn,6400,15200,23500.0,US
+SN-6119,2021-01-22 15:14:29.569506048,New York,Michael Jordan,Air Jordan 11,2006,True,True,False,Very Good,4700,12100,20200.0,Asia
+SN-6120,2025-09-21 15:55:05.678221824,Hong Kong,Larry Bird,Air Jordan 11,1998,True,True,False,Very Good,7800,19200,30900.0,Asia
+SN-6121,2026-03-17 22:00:17.380957184,New York,Michael Jordan,Nike Air Ship,2002,False,False,True,Good,12600,30100,,Asia
+SN-6122,2025-08-06 10:01:19.646037504,New York,Michael Jordan,Adidas Crazy 8,2011,False,False,False,Good,16300,39800,28800.0,US
+SN-6123,2021-01-12 04:11:13.802745600,Hong Kong,LeBron James,Air Jordan 1,2020,True,False,True,Very Good,3800,9200,16700.0,US
+SN-6124,2025-01-01 05:21:30.862172160,Hong Kong,Michael Jordan,Air Jordan 1,2003,True,True,True,Very Good,11600,28000,85200.0,US
+SN-6125,2024-01-21 06:04:13.657763584,Hong Kong,Michael Jordan,Air Jordan 1,1997,True,True,False,Heavily worn,8300,19200,,Europe
+SN-6126,2021-07-03 06:20:42.157341440,Hong Kong,Magic Johnson,Nike Air Ship,2014,True,True,True,Good,10800,25200,45300.0,Europe
+SN-6127,2025-12-21 08:15:10.927500288,New York,Michael Jordan,Air Jordan 11,2005,True,True,False,Heavily worn,5700,12900,16800.0,US
+SN-6128,2025-02-19 12:26:41.291570432,New York,LeBron James,Air Jordan 11,1999,True,False,True,Pristine,5400,12000,19800.0,Asia
+SN-6129,2021-10-10 17:55:03.944178432,Hong Kong,Michael Jordan,Air Jordan 1,2002,False,False,False,Good,10500,22700,18800.0,Asia
+SN-6130,2026-02-20 00:35:27.356658176,New York,Michael Jordan,Adidas Crazy 8,2005,True,True,True,Heavily worn,10600,23500,39800.0,Asia
+SN-6131,2021-09-03 13:59:11.584565248,New York,LeBron James,Air Jordan 11,1989,True,False,True,Very Good,15400,34600,44700.0,US
+SN-6132,2023-06-04 19:22:08.565231360,Hong Kong,Michael Jordan,Nike Air Ship,1986,False,False,False,Very Good,6800,15900,,Europe
+SN-6133,2021-11-06 08:48:09.425210368,New York,Larry Bird,Air Jordan 1,2010,False,False,False,Very Good,5600,12900,10000.0,Asia
+SN-6134,2021-10-20 06:30:39.212583680,Hong Kong,Larry Bird,Air Jordan 1,1990,False,False,True,Very Good,1400,2800,2500.0,Asia
+SN-6135,2026-02-27 08:23:57.138172160,New York,Magic Johnson,Air Jordan 1,2005,True,False,False,Very Good,2300,5000,4700.0,Asia
+SN-6136,2024-01-19 08:25:20.575732224,Hong Kong,Michael Jordan,Air Jordan 11,2015,True,True,True,Heavily worn,4700,10500,18700.0,Asia
+SN-6137,2022-05-20 08:30:19.281362432,New York,Michael Jordan,Air Jordan 11,1992,False,False,True,Good,3100,7500,11200.0,US
+SN-6138,2025-02-19 20:57:22.381021952,New York,Larry Bird,Air Jordan 1,1999,True,False,False,Good,9800,21500,15100.0,Europe
+SN-6139,2025-08-31 05:24:51.930087424,Hong Kong,Kobe Bryant,Air Jordan 11,2023,True,False,False,Very Good,2700,5500,,US
+SN-6140,2025-11-21 15:46:27.349451008,New York,LeBron James,Air Jordan 1,1985,True,True,False,Good,4400,9100,12100.0,Europe

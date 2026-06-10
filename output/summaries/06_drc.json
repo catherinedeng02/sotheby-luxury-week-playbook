@@ -1,0 +1,107 @@
+{
+  "title": "DRC Burgundy \u2014 Premium Drivers",
+  "n_lots": 175,
+  "features": [
+    "cuvee",
+    "vintage_tier",
+    "format",
+    "source",
+    "owc_intact"
+  ],
+  "reference_levels": {
+    "cuvee": "Richebourg",
+    "vintage_tier": "Regular vintage",
+    "format": "750ml",
+    "source": "Private cellar",
+    "owc_intact": "No"
+  },
+  "great_vintages_set": [
+    1990,
+    1999,
+    2005,
+    2009,
+    2015,
+    2018,
+    2019
+  ],
+  "r_squared": 0.461,
+  "adj_r_squared": 0.428,
+  "n_features": 10,
+  "takeaway_sentences": [
+    "Format: Jeroboam: +47% vs reference, all else equal.",
+    "Cuvee: Roman\u00e9e-Conti: +33% vs reference, all else equal.",
+    "Source: Direct from Domaine: +31% vs reference, all else equal.",
+    "Cuvee: La T\u00e2che: +22% vs reference, all else equal."
+  ],
+  "headline_takeaway": "Format: Jeroboam: +47% vs reference, all else equal.",
+  "winning_combos": [
+    {
+      "cuvee": "Roman\u00e9e-Conti",
+      "vintage_tier": "Great vintage",
+      "format": "750ml",
+      "mean": 1.8081191350471941,
+      "median": 1.9244186046511629,
+      "count": 11
+    },
+    {
+      "cuvee": "Roman\u00e9e-Conti",
+      "vintage_tier": "Great vintage",
+      "format": "Magnum",
+      "mean": 1.5827554005770308,
+      "median": 1.7799043062200957,
+      "count": 3
+    },
+    {
+      "cuvee": "La T\u00e2che",
+      "vintage_tier": "Great vintage",
+      "format": "750ml",
+      "mean": 1.5309616334581349,
+      "median": 1.4583416633346662,
+      "count": 4
+    },
+    {
+      "cuvee": "Roman\u00e9e-Conti",
+      "vintage_tier": "Regular vintage",
+      "format": "750ml",
+      "mean": 1.4819333592013706,
+      "median": 1.4083333333333334,
+      "count": 17
+    },
+    {
+      "cuvee": "Richebourg",
+      "vintage_tier": "Great vintage",
+      "format": "750ml",
+      "mean": 1.318696114406167,
+      "median": 1.3880038433821764,
+      "count": 6
+    },
+    {
+      "cuvee": "La T\u00e2che",
+      "vintage_tier": "Regular vintage",
+      "format": "Magnum",
+      "mean": 1.269495381968023,
+      "median": 1.3310344827586207,
+      "count": 5
+    },
+    {
+      "cuvee": "La T\u00e2che",
+      "vintage_tier": "Regular vintage",
+      "format": "750ml",
+      "mean": 1.3567909730592913,
+      "median": 1.291025641025641,
+      "count": 32
+    },
+    {
+      "cuvee": "Richebourg",
+      "vintage_tier": "Regular vintage",
+      "format": "Magnum",
+      "mean": 1.132241182686865,
+      "median": 1.13,
+      "count": 3
+    }
+  ],
+  "figures": [
+    "06_drc_coefficients.png",
+    "06_drc_combos.png"
+  ]
+}

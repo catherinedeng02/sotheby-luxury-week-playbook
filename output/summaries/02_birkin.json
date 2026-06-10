@@ -1,0 +1,98 @@
+{
+  "title": "Herm\u00e8s Birkin & Kelly \u2014 Premium Drivers",
+  "n_lots": 296,
+  "features": [
+    "leather",
+    "hardware",
+    "size_cm",
+    "condition",
+    "model"
+  ],
+  "reference_levels": {
+    "leather": "Togo",
+    "hardware": "GHW",
+    "size_cm": "35",
+    "condition": "Excellent",
+    "model": "Birkin"
+  },
+  "r_squared": 0.615,
+  "adj_r_squared": 0.582,
+  "n_features": 23,
+  "takeaway_sentences": [
+    "Hardware: Diamond: +67% vs reference, all else equal.",
+    "Leather: Himalaya Niloticus: +54% vs reference, all else equal.",
+    "Size: cm_40: +27% vs reference, all else equal.",
+    "Condition: Good: -27% vs reference, all else equal."
+  ],
+  "headline_takeaway": "Hardware: Diamond: +67% vs reference, all else equal.",
+  "winning_combos": [
+    {
+      "leather": "Clemence",
+      "hardware": "Diamond",
+      "size_cm": 35,
+      "mean": 2.3149372447730308,
+      "median": 2.308641975308642,
+      "count": 3
+    },
+    {
+      "leather": "Himalaya Niloticus",
+      "hardware": "Permabrass",
+      "size_cm": 30,
+      "mean": 1.9090369362878048,
+      "median": 1.9824561403508771,
+      "count": 3
+    },
+    {
+      "leather": "Himalaya Niloticus",
+      "hardware": "PHW",
+      "size_cm": 35,
+      "mean": 2.0848751916706907,
+      "median": 1.9573972602739729,
+      "count": 4
+    },
+    {
+      "leather": "Niloticus crocodile",
+      "hardware": "PHW",
+      "size_cm": 30,
+      "mean": 1.7524430577457801,
+      "median": 1.7259436215957955,
+      "count": 4
+    },
+    {
+      "leather": "Clemence",
+      "hardware": "PHW",
+      "size_cm": 30,
+      "mean": 1.5483779233558177,
+      "median": 1.6603773584905661,
+      "count": 3
+    },
+    {
+      "leather": "Ch\u00e8vre",
+      "hardware": "PHW",
+      "size_cm": 35,
+      "mean": 1.4380806504116508,
+      "median": 1.6220472440944882,
+      "count": 3
+    },
+    {
+      "leather": "Niloticus crocodile",
+      "hardware": "PHW",
+      "size_cm": 28,
+      "mean": 1.5906389476156917,
+      "median": 1.5909090909090908,
+      "count": 3
+    },
+    {
+      "leather": "Clemence",
+      "hardware": "GHW",
+      "size_cm": 28,
+      "mean": 1.5915352058484034,
+      "median": 1.5776397515527951,
+      "count": 3
+    }
+  ],
+  "figures": [
+    "02_birkin_coefficients.png",
+    "02_birkin_combos.png"
+  ]
+}

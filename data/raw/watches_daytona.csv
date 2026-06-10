@@ -1,0 +1,181 @@
+lot_id,sale_date,sale_location,reference,dial_type,bezel,movement,papers,provenance,low_estimate,high_estimate,hammer_price,buyer_region
+WD-2001,2025-03-25 17:35:14.827756288,New York,6241,Standard,Steel,Valjoux 72 unmodified,None,Single owner,18300,37100,36200.0,Other
+WD-2002,2022-08-08 06:47:15.595522560,Hong Kong,6239,Exotic 'Paul Newman',Steel,Valjoux 727,Full set,Single owner,106200,195800,797600.0,Asia
+WD-2003,2022-01-28 21:52:29.043451904,Geneva,6265,Exotic 'Paul Newman',Steel,Valjoux 72 unmodified,None,Single owner,38000,79500,162500.0,Asia
+WD-2004,2022-11-14 12:40:42.535985152,Geneva,6239,Tropical,Steel,Valjoux 727,None,Celebrity,41100,76100,,Asia
+WD-2005,2023-03-09 22:59:57.022711296,Geneva,6263,Standard,Acrylic,Valjoux 72 unmodified,Full set,Single owner,90100,160800,119600.0,Asia
+WD-2006,2024-09-16 06:52:58.679727104,Hong Kong,6263,Standard,Steel,Valjoux 727,Partial papers,Named collection,59500,125500,132700.0,US
+WD-2007,2025-07-04 09:09:47.443193088,New York,6241,Standard,Acrylic,Valjoux 727,Partial papers,Named collection,23700,42800,41700.0,Asia
+WD-2008,2024-11-03 21:45:47.337964288,Hong Kong,6262,Tropical,Steel,Valjoux 727,None,Single owner,27100,49000,67900.0,Europe
+WD-2009,2021-12-05 13:54:53.851632128,New York,6239,Standard,18K Gold,Valjoux 72 unmodified,None,Celebrity,53800,115100,167100.0,Asia
+WD-2010,2022-12-14 15:48:09.822640384,New York,6263,Standard,Steel,Valjoux 727,Partial papers,Single owner,27500,48900,64600.0,US
+WD-2011,2021-11-05 06:33:14.662313984,Hong Kong,6239,Standard,Steel,Valjoux 727,None,Single owner,11200,24400,18900.0,Asia
+WD-2012,2024-08-29 08:46:01.258173184,Hong Kong,6239,Tropical,Steel,Valjoux 72 unmodified,None,Single owner,38700,84000,119600.0,Asia
+WD-2013,2022-04-28 22:37:09.840870656,Geneva,6241,Standard,Steel,Valjoux 72 unmodified,Full set,Single owner,16500,30000,44100.0,US
+WD-2014,2023-10-20 09:40:16.722885632,Geneva,6265,Exotic 'Paul Newman',Steel,Valjoux 727,None,Named collection,105500,213300,482600.0,Asia
+WD-2015,2025-03-21 21:37:15.587632384,Geneva,6264,Exotic 'Paul Newman',Acrylic,Valjoux 72 unmodified,None,Single owner,44500,80100,302500.0,Asia
+WD-2016,2024-07-29 15:32:52.425380864,Geneva,6265,Tropical,18K Gold,Valjoux 727,None,Single owner,23200,48400,38900.0,Europe
+WD-2017,2022-08-04 15:15:31.896087808,Geneva,6263,Standard,Steel,Valjoux 727,Partial papers,Single owner,26300,46900,53700.0,US
+WD-2018,2022-10-10 18:12:31.394828032,New York,6263,Standard,Steel,Valjoux 72 unmodified,Partial papers,Single owner,12900,28900,30500.0,US
+WD-2019,2024-06-25 10:43:32.309428736,Hong Kong,6262,Standard,Acrylic,Valjoux 72 unmodified,Full set,Named collection,20700,38400,59800.0,Asia
+WD-2020,2023-12-06 06:20:30.354621952,New York,6265,Standard,Acrylic,Valjoux 72 unmodified,None,Single owner,73600,155200,114500.0,US
+WD-2021,2021-07-07 13:57:41.179683328,New York,6263,Exotic 'Paul Newman',Steel,Valjoux 72 unmodified,None,Named collection,152600,277400,1081500.0,Asia
+WD-2022,2025-08-28 18:54:11.467554048,New York,6241,Standard,Acrylic,Valjoux 727,Partial papers,Single owner,61900,115000,79100.0,Europe
+WD-2023,2023-09-25 13:05:20.893548032,Geneva,6263,Standard,Steel,Valjoux 72 unmodified,None,Named collection,37900,75200,79200.0,US
+WD-2024,2023-07-11 03:51:09.937347840,Geneva,6263,Standard,Acrylic,Valjoux 72 unmodified,Partial papers,Single owner,30900,63300,51400.0,Asia
+WD-2025,2022-01-22 03:54:38.801063424,Geneva,6239,Exotic 'Paul Newman',Steel,Valjoux 727,Full set,Single owner,22500,51200,176200.0,Other
+WD-2026,2023-01-04 15:07:09.556320000,Geneva,6241,Standard,Steel,Valjoux 72 unmodified,Partial papers,Single owner,137700,242800,279800.0,Asia
+WD-2027,2022-10-10 16:15:08.530431744,Geneva,6241,Exotic 'Paul Newman',Steel,Valjoux 727,Partial papers,Single owner,35700,62500,,Asia
+WD-2028,2022-06-11 20:26:21.591116032,New York,6264,Standard,Acrylic,Valjoux 72 unmodified,Full set,Named collection,142300,275300,373400.0,Asia
+WD-2029,2024-01-10 04:09:23.984290304,Geneva,6241,Sigma,Steel,Valjoux 72 unmodified,None,Single owner,92300,179300,214300.0,US
+WD-2030,2023-06-19 14:06:30.335508992,Geneva,6264,Exotic 'Paul Newman',Acrylic,Valjoux 72 unmodified,Full set,Single owner,14100,31200,113300.0,US
+WD-2031,2025-09-27 09:05:19.301770496,Geneva,6262,Standard,Acrylic,Valjoux 727,Partial papers,Named collection,26800,59800,51400.0,Asia
+WD-2032,2026-01-06 20:31:44.774438144,New York,6264,Standard,Acrylic,Valjoux 727,Partial papers,Single owner,26800,59200,49900.0,Asia
+WD-2033,2022-03-04 02:17:13.339207424,New York,6239,Standard,Steel,Valjoux 727,Full set,Single owner,38100,69600,92400.0,US
+WD-2034,2021-07-14 19:19:26.202517760,Geneva,6265,Standard,Steel,Valjoux 727,Partial papers,Celebrity,38600,75900,116500.0,US
+WD-2035,2025-03-09 06:24:18.016861952,New York,6262,Standard,Steel,Valjoux 727,Partial papers,Single owner,241400,517100,557700.0,Europe
+WD-2036,2026-04-21 00:00:25.183935232,New York,6241,Tropical,Acrylic,Valjoux 727,None,Named collection,21000,40100,58300.0,US
+WD-2037,2025-08-08 13:34:39.584886272,Hong Kong,6239,Exotic 'Paul Newman',18K Gold,Valjoux 72 unmodified,Partial papers,Single owner,45900,96300,175200.0,Asia
+WD-2038,2021-02-16 02:45:48.486792192,New York,6241,Standard,Steel,Valjoux 727,Partial papers,Named collection,57900,108500,93800.0,Asia
+WD-2039,2022-05-04 23:00:46.339901184,New York,6241,Exotic 'Paul Newman',18K Gold,Valjoux 727,None,Single owner,40000,76700,194700.0,Asia
+WD-2040,2021-03-26 08:15:27.744966656,Geneva,6263,Standard,Steel,Valjoux 727,Partial papers,Single owner,42700,94100,78400.0,US
+WD-2041,2025-05-17 05:40:48.091190272,Geneva,6265,Sigma,Steel,Valjoux 72 unmodified,Partial papers,Single owner,21400,40200,48800.0,US
+WD-2042,2024-02-06 10:01:53.114722816,Geneva,6263,Standard,Steel,Valjoux 72 unmodified,None,Named collection,42600,96200,115100.0,Asia
+WD-2043,2023-09-27 16:42:38.687997952,New York,6263,Exotic 'Paul Newman',Acrylic,Valjoux 727,None,Single owner,54400,103900,203800.0,Asia
+WD-2044,2023-12-15 23:01:38.239556864,New York,6262,Tropical,Steel,Valjoux 72 unmodified,Partial papers,Celebrity,48700,85800,168400.0,US
+WD-2045,2022-05-07 06:29:00.910196224,Hong Kong,6264,Standard,Steel,Valjoux 72 unmodified,None,Single owner,56300,106100,138600.0,Asia
+WD-2046,2024-03-16 18:55:06.212141312,Hong Kong,6264,Standard,Acrylic,Valjoux 727,None,Single owner,93400,171800,157200.0,Asia
+WD-2047,2021-03-01 16:16:14.023862528,New York,6241,Standard,Steel,Valjoux 72 unmodified,Partial papers,Named collection,70200,141500,152700.0,US
+WD-2048,2024-06-11 03:19:53.602802688,Geneva,6265,Tropical,Steel,Valjoux 72 unmodified,None,Single owner,41700,75500,84300.0,Asia
+WD-2049,2024-11-30 04:59:51.376819712,Geneva,6241,Standard,Steel,Valjoux 72 unmodified,None,Single owner,19800,41200,33600.0,US
+WD-2050,2024-08-02 17:01:07.033429760,Hong Kong,6264,Exotic 'Paul Newman',Steel,Valjoux 72 unmodified,Partial papers,Named collection,27900,61700,166300.0,Asia
+WD-2051,2022-10-09 07:12:59.670914048,New York,6265,Tropical,Steel,Valjoux 727,None,Single owner,35100,68000,,US
+WD-2052,2025-05-27 21:46:59.477220352,New York,6263,Tropical,Steel,Valjoux 727,Full set,Single owner,46500,85600,146200.0,Asia
+WD-2053,2024-10-24 10:46:00.628949504,New York,6239,Standard,Acrylic,Valjoux 727,Full set,Single owner,30000,58800,91100.0,US
+WD-2054,2021-09-07 15:59:53.411479808,New York,6263,Standard,Steel,Valjoux 727,Partial papers,Single owner,22800,49300,44900.0,Asia
+WD-2055,2022-01-15 18:00:56.433677312,Hong Kong,6239,Exotic 'Paul Newman',Acrylic,Valjoux 727,Full set,Single owner,19600,40400,120600.0,Asia
+WD-2056,2024-05-24 19:30:40.784675328,Hong Kong,6264,Standard,Steel,Valjoux 72 unmodified,Full set,Single owner,14900,26800,34900.0,Europe
+WD-2057,2022-07-18 04:53:27.965762304,Hong Kong,6241,Tropical,Steel,Valjoux 727,None,Single owner,34700,70600,54000.0,Asia
+WD-2058,2021-08-21 09:59:45.950298112,Geneva,6263,Standard,Steel,Valjoux 72 unmodified,Partial papers,Single owner,16600,33100,32700.0,Europe
+WD-2059,2021-10-29 13:40:18.681861120,New York,6265,Standard,Steel,Valjoux 72 unmodified,None,Single owner,21900,42200,37800.0,US
+WD-2060,2021-11-19 06:59:05.279852032,New York,6239,Tropical,Steel,Valjoux 727,Partial papers,Single owner,31600,57100,100200.0,Asia
+WD-2061,2023-07-19 18:44:47.443364608,New York,6241,Standard,Steel,Valjoux 727,Partial papers,Single owner,17900,40600,27100.0,US
+WD-2062,2024-03-27 23:19:48.781096448,New York,6263,Standard,18K Gold,Valjoux 72 unmodified,None,Single owner,50200,92600,91900.0,Asia
+WD-2063,2021-12-10 06:41:30.641282048,Hong Kong,6262,Standard,Acrylic,Valjoux 727,None,Single owner,62400,115500,115800.0,Asia
+WD-2064,2024-10-18 12:26:30.085454080,Geneva,6239,Standard,Steel,Valjoux 72 unmodified,Full set,Named collection,28800,52500,110500.0,Europe
+WD-2065,2022-07-01 20:24:46.154704896,Geneva,6239,Tropical,Acrylic,Valjoux 72 unmodified,None,Single owner,30800,63100,72900.0,Asia
+WD-2066,2022-08-30 07:00:40.663985664,Hong Kong,6262,Standard,Acrylic,Valjoux 72 unmodified,None,Single owner,55200,109500,111500.0,Asia
+WD-2067,2022-03-11 22:16:46.555122432,Hong Kong,6263,Standard,Acrylic,Valjoux 72 unmodified,None,Single owner,26100,49000,30900.0,US
+WD-2068,2025-03-09 00:16:02.543126784,New York,6263,Standard,Steel,Valjoux 72 unmodified,Partial papers,Single owner,25000,49400,57900.0,US
+WD-2069,2026-02-11 19:08:42.912541952,Hong Kong,6239,Sigma,Steel,Valjoux 72 unmodified,Full set,Named collection,82000,172500,255200.0,Europe
+WD-2070,2023-08-17 09:42:46.557581824,New York,6262,Standard,Steel,Valjoux 72 unmodified,Full set,Named collection,68000,129000,149900.0,US
+WD-2071,2021-03-23 18:59:56.678783232,Geneva,6241,Sigma,Steel,Valjoux 72 unmodified,Partial papers,Named collection,57400,128000,128300.0,US
+WD-2072,2022-05-23 01:37:45.675607552,Hong Kong,6241,Tropical,Steel,Valjoux 727,None,Single owner,69700,133200,176000.0,Europe
+WD-2073,2021-11-04 13:34:50.867092480,New York,6263,Standard,18K Gold,Valjoux 727,None,Single owner,12200,22600,15100.0,Other
+WD-2074,2025-06-29 00:22:11.106223104,New York,6241,Tropical,18K Gold,Valjoux 727,Partial papers,Single owner,90100,202900,252700.0,Asia
+WD-2075,2021-06-15 03:01:14.264689408,New York,6263,Exotic 'Paul Newman',Steel,Valjoux 72 unmodified,Full set,Single owner,50600,110100,306400.0,Asia
+WD-2076,2026-02-24 18:18:22.842396928,Geneva,6265,Standard,Steel,Valjoux 727,Partial papers,Single owner,73400,141600,94800.0,Europe
+WD-2077,2024-02-20 05:56:50.724515584,New York,6263,Standard,Steel,Valjoux 727,Partial papers,Single owner,50500,110600,143100.0,US
+WD-2078,2023-10-05 12:31:08.455842304,New York,6263,Tropical,Steel,Valjoux 72 unmodified,Partial papers,Single owner,41200,83300,142900.0,Asia
+WD-2079,2025-07-07 22:39:48.490076416,New York,6239,Tropical,Acrylic,Valjoux 72 unmodified,Partial papers,Named collection,33900,65500,81100.0,Asia
+WD-2080,2021-02-23 14:35:02.777266176,Geneva,6239,Tropical,Steel,Valjoux 72 unmodified,Partial papers,Single owner,49900,109200,152300.0,Europe
+WD-2081,2025-02-21 08:08:31.229897984,Hong Kong,6239,Sigma,Acrylic,Valjoux 72 unmodified,Partial papers,Single owner,33200,71200,86400.0,Europe
+WD-2082,2021-08-15 21:52:31.239235072,Hong Kong,6264,Standard,18K Gold,Valjoux 72 unmodified,Partial papers,Named collection,67300,128400,139400.0,Asia
+WD-2083,2025-06-25 03:42:01.198490112,New York,6264,Tropical,Acrylic,Valjoux 72 unmodified,Partial papers,Named collection,15400,31900,49100.0,US
+WD-2084,2023-10-27 18:38:46.115826432,New York,6239,Tropical,Acrylic,Valjoux 72 unmodified,Full set,Single owner,28900,56200,123900.0,Asia
+WD-2085,2021-04-29 22:59:15.388172544,Geneva,6239,Standard,Steel,Valjoux 727,Partial papers,Single owner,136400,238800,218800.0,US
+WD-2086,2025-06-10 11:52:34.651837440,New York,6241,Standard,Steel,Valjoux 72 unmodified,None,Single owner,27500,62000,55000.0,Europe
+WD-2087,2021-02-23 03:40:42.685304576,New York,6263,Standard,Steel,Valjoux 72 unmodified,None,Single owner,34700,70700,64100.0,US
+WD-2088,2021-09-27 06:27:53.427250176,Hong Kong,6263,Tropical,Acrylic,Valjoux 727,Partial papers,Single owner,23600,48600,59200.0,US
+WD-2089,2025-04-02 13:35:47.618875904,New York,6263,Standard,Steel,Valjoux 72 unmodified,Partial papers,Single owner,48900,101000,93600.0,Asia
+WD-2090,2023-06-24 15:20:27.487172096,New York,6265,Exotic 'Paul Newman',Acrylic,Valjoux 72 unmodified,Partial papers,Single owner,25700,52400,145400.0,Asia
+WD-2091,2025-09-12 04:22:40.973477376,Geneva,6241,Standard,Steel,Valjoux 72 unmodified,Partial papers,Single owner,35800,68100,70600.0,Europe
+WD-2092,2024-05-21 13:05:19.523165184,Hong Kong,6263,Standard,Steel,Valjoux 72 unmodified,None,Single owner,66600,150400,107500.0,US
+WD-2093,2024-04-28 09:17:12.998816000,New York,6263,Exotic 'Paul Newman',Steel,Valjoux 72 unmodified,Partial papers,Named collection,26300,54600,223700.0,Europe
+WD-2094,2022-07-23 16:32:54.228442624,New York,6241,Standard,18K Gold,Valjoux 72 unmodified,Partial papers,Single owner,64200,135000,92400.0,US
+WD-2095,2021-09-18 03:24:54.619056640,Geneva,6265,Tropical,Steel,Valjoux 72 unmodified,Partial papers,Single owner,65500,130300,179500.0,US
+WD-2096,2026-02-14 10:35:43.239979264,New York,6239,Standard,Steel,Valjoux 727,Partial papers,Single owner,75300,143200,139000.0,Asia
+WD-2097,2021-07-23 22:28:16.585511168,New York,6263,Sigma,Steel,Valjoux 727,None,Named collection,43500,77600,102000.0,US
+WD-2098,2023-10-27 10:54:39.837009152,Hong Kong,6263,Standard,Acrylic,Valjoux 72 unmodified,Partial papers,Single owner,279700,540900,328000.0,Asia
+WD-2099,2022-06-15 10:02:36.478851328,Hong Kong,6265,Sigma,18K Gold,Valjoux 72 unmodified,Full set,Named collection,75300,138800,250000.0,US
+WD-2100,2022-05-30 00:25:31.986869760,Geneva,6263,Exotic 'Paul Newman',Steel,Valjoux 72 unmodified,Full set,Single owner,48600,102000,360000.0,US
+WD-2101,2024-03-03 01:33:17.230746880,New York,6241,Standard,18K Gold,Valjoux 727,Partial papers,Single owner,23600,52300,54600.0,Asia
+WD-2102,2025-04-02 18:42:54.031398912,New York,6264,Standard,Steel,Valjoux 727,None,Single owner,37700,72000,60900.0,US
+WD-2103,2025-02-21 09:23:26.038147328,Hong Kong,6264,Standard,Acrylic,Valjoux 72 unmodified,Partial papers,Single owner,94100,181200,166500.0,Asia
+WD-2104,2025-08-18 16:30:50.731544576,Hong Kong,6263,Exotic 'Paul Newman',Steel,Valjoux 72 unmodified,Partial papers,Named collection,111600,234500,1195500.0,Asia
+WD-2105,2022-07-24 23:43:46.097253120,New York,6264,Tropical,Steel,Valjoux 72 unmodified,None,Single owner,97100,177600,225200.0,US
+WD-2106,2023-06-26 08:27:09.113835008,Hong Kong,6241,Standard,Acrylic,Valjoux 727,Full set,Single owner,64100,143400,219100.0,Europe
+WD-2107,2021-01-19 03:57:42.867604992,New York,6263,Standard,Steel,Valjoux 727,None,Single owner,18800,36600,34100.0,US
+WD-2108,2024-12-24 09:14:18.351458816,Geneva,6265,Exotic 'Paul Newman',Steel,Valjoux 72 unmodified,None,Single owner,53600,96600,299400.0,Asia
+WD-2109,2022-08-12 08:37:57.754175488,Geneva,6241,Standard,Acrylic,Valjoux 72 unmodified,None,Single owner,19000,35000,30300.0,US
+WD-2110,2023-12-29 15:59:38.320262912,Hong Kong,6262,Exotic 'Paul Newman',18K Gold,Valjoux 72 unmodified,None,Single owner,16400,36700,96400.0,Europe
+WD-2111,2021-11-26 11:00:01.337171200,Geneva,6265,Standard,Steel,Valjoux 727,Full set,Named collection,46200,86800,122700.0,Asia
+WD-2112,2025-05-14 13:14:04.492326144,Geneva,6264,Exotic 'Paul Newman',Acrylic,Valjoux 727,Partial papers,Named collection,54800,114900,297100.0,Asia
+WD-2113,2025-05-10 09:52:54.225021696,New York,6265,Sigma,Acrylic,Valjoux 72 unmodified,None,Named collection,68800,126000,121600.0,Other
+WD-2114,2025-09-04 12:33:39.350239232,New York,6241,Standard,Steel,Valjoux 72 unmodified,Partial papers,Single owner,53900,99800,105800.0,US
+WD-2115,2021-03-31 09:26:29.446340608,Hong Kong,6265,Standard,18K Gold,Valjoux 72 unmodified,None,Single owner,55000,121700,86200.0,Europe
+WD-2116,2026-04-16 07:47:29.692796160,New York,6239,Standard,Steel,Valjoux 72 unmodified,None,Single owner,22200,40500,,Asia
+WD-2117,2022-04-28 04:17:23.179169280,New York,6263,Exotic 'Paul Newman',Acrylic,Valjoux 727,None,Single owner,37600,66100,223500.0,Europe
+WD-2118,2022-08-26 03:47:27.143359488,New York,6262,Standard,Steel,Valjoux 72 unmodified,Partial papers,Single owner,16200,32600,27100.0,Europe
+WD-2119,2022-05-01 04:58:33.225998080,Geneva,6264,Sigma,Steel,Valjoux 727,None,Single owner,12000,26500,22400.0,Other
+WD-2120,2022-06-05 14:50:49.720237824,Hong Kong,6265,Exotic 'Paul Newman',Steel,Valjoux 72 unmodified,Full set,Single owner,62400,119800,374200.0,US
+WD-2121,2023-12-12 11:29:45.511673088,Geneva,6263,Standard,Steel,Valjoux 72 unmodified,None,Single owner,25500,46300,65800.0,Europe
+WD-2122,2022-04-12 16:06:41.980189440,New York,6263,Tropical,18K Gold,Valjoux 72 unmodified,Partial papers,Named collection,67500,153000,217800.0,Europe
+WD-2123,2023-02-06 06:41:43.179520256,New York,6262,Standard,18K Gold,Valjoux 72 unmodified,Full set,Single owner,77800,163700,202300.0,Asia
+WD-2124,2024-06-29 19:26:59.375140608,Geneva,6263,Tropical,Steel,Valjoux 72 unmodified,None,Single owner,27600,60600,58500.0,US
+WD-2125,2025-06-15 21:46:04.122819072,New York,6263,Standard,Steel,Valjoux 727,None,Single owner,57000,122300,109500.0,Other
+WD-2126,2024-09-10 01:47:56.502471680,New York,6239,Exotic 'Paul Newman',Steel,Valjoux 72 unmodified,Full set,Single owner,26900,56900,253900.0,US
+WD-2127,2024-03-02 13:15:14.914609664,New York,6263,Sigma,Steel,Valjoux 72 unmodified,Partial papers,Named collection,13200,25800,32100.0,Asia
+WD-2128,2021-10-15 11:30:53.225704960,Hong Kong,6265,Tropical,Steel,Valjoux 72 unmodified,Partial papers,Single owner,43100,82700,149400.0,Asia
+WD-2129,2025-05-08 03:51:46.995782656,New York,6263,Tropical,18K Gold,Valjoux 72 unmodified,None,Named collection,30200,64100,125900.0,US
+WD-2130,2021-03-14 12:53:10.927776768,New York,6264,Standard,Acrylic,Valjoux 727,None,Named collection,30700,65300,51000.0,Asia
+WD-2131,2022-05-30 02:48:26.783069696,New York,6241,Tropical,Steel,Valjoux 727,Partial papers,Single owner,130900,294300,332000.0,US
+WD-2132,2021-04-22 00:52:46.763005184,New York,6263,Exotic 'Paul Newman',Steel,Valjoux 72 unmodified,Full set,Single owner,16000,32800,112100.0,Asia
+WD-2133,2024-07-22 19:36:10.352508160,New York,6239,Exotic 'Paul Newman',Acrylic,Valjoux 727,None,Single owner,50300,95900,334600.0,Europe
+WD-2134,2022-12-18 20:24:10.949210880,Hong Kong,6241,Standard,Steel,Valjoux 727,Full set,Single owner,22000,44200,74300.0,US
+WD-2135,2024-06-22 21:16:20.494560256,New York,6262,Standard,Steel,Valjoux 727,Partial papers,Single owner,69000,142900,139200.0,Asia
+WD-2136,2022-11-07 07:44:02.123933696,New York,6241,Exotic 'Paul Newman',Steel,Valjoux 72 unmodified,None,Celebrity,47800,94400,455500.0,US
+WD-2137,2023-06-06 20:54:54.328534528,Hong Kong,6239,Standard,Steel,Valjoux 72 unmodified,None,Single owner,50200,108800,82500.0,Europe
+WD-2138,2023-06-11 04:36:39.667684608,Geneva,6263,Exotic 'Paul Newman',Steel,Valjoux 72 unmodified,None,Named collection,22700,46700,176800.0,Other
+WD-2139,2021-03-30 16:47:55.856000512,New York,6262,Tropical,Acrylic,Valjoux 727,Partial papers,Single owner,25300,44300,55900.0,US
+WD-2140,2023-04-18 05:17:58.871269376,New York,6262,Sigma,Steel,Valjoux 727,Partial papers,Celebrity,69800,143000,261200.0,Asia
+WD-2141,2024-06-01 12:16:12.053756672,New York,6239,Standard,Acrylic,Valjoux 72 unmodified,Partial papers,Single owner,115700,241000,,Asia
+WD-2142,2023-11-29 14:49:26.762545408,Geneva,6263,Sigma,Steel,Valjoux 72 unmodified,None,Single owner,53400,119000,112100.0,Asia
+WD-2143,2021-05-27 12:03:10.872940032,New York,6262,Standard,18K Gold,Valjoux 727,Partial papers,Single owner,23300,45900,37200.0,Asia
+WD-2144,2024-07-24 00:53:12.319849984,New York,6262,Standard,Steel,Valjoux 727,Partial papers,Single owner,49000,100600,101200.0,Asia
+WD-2145,2022-08-25 01:07:33.980024576,Hong Kong,6263,Tropical,Steel,Valjoux 72 unmodified,Partial papers,Named collection,171600,343200,671600.0,Asia
+WD-2146,2021-01-29 02:09:46.904369152,New York,6239,Standard,Steel,Valjoux 727,Partial papers,Single owner,42500,86300,120800.0,US
+WD-2147,2021-10-30 18:56:05.633025280,New York,6265,Standard,Steel,Valjoux 72 unmodified,None,Single owner,96200,171700,183900.0,Asia
+WD-2148,2023-08-27 06:01:34.447125248,New York,6239,Standard,Steel,Valjoux 72 unmodified,Partial papers,Single owner,25700,57000,65500.0,Europe
+WD-2149,2022-08-28 00:59:56.700025088,Hong Kong,6262,Standard,Acrylic,Valjoux 72 unmodified,None,Single owner,39000,86900,66800.0,US
+WD-2150,2024-09-13 06:27:51.387644928,Hong Kong,6239,Tropical,Steel,Valjoux 727,None,Single owner,58000,118200,132500.0,Asia
+WD-2151,2022-04-14 07:28:47.722164480,Hong Kong,6263,Standard,Steel,Valjoux 727,None,Single owner,50800,103700,107500.0,US
+WD-2152,2025-02-12 20:40:20.108871424,Geneva,6241,Standard,Steel,Valjoux 72 unmodified,Partial papers,Single owner,25300,45000,49100.0,Europe
+WD-2153,2022-07-12 11:37:49.007367936,New York,6265,Exotic 'Paul Newman',Acrylic,Valjoux 72 unmodified,Partial papers,Single owner,24600,50800,104100.0,Asia
+WD-2154,2024-04-23 04:49:06.956481280,Geneva,6241,Standard,18K Gold,Valjoux 72 unmodified,None,Single owner,72400,143000,102900.0,Asia
+WD-2155,2025-04-05 06:36:06.563704064,Geneva,6263,Exotic 'Paul Newman',Acrylic,Valjoux 72 unmodified,Full set,Celebrity,81800,173500,1077800.0,US
+WD-2156,2023-01-21 07:00:48.355839488,Geneva,6239,Sigma,Acrylic,Valjoux 72 unmodified,Full set,Single owner,99100,175900,226200.0,Asia
+WD-2157,2021-04-02 01:58:40.809179136,Geneva,6239,Tropical,Acrylic,Valjoux 72 unmodified,None,Single owner,118100,250700,389000.0,Other
+WD-2158,2023-11-08 23:26:51.415922176,New York,6262,Tropical,Acrylic,Valjoux 72 unmodified,Partial papers,Single owner,43400,82400,120000.0,Asia
+WD-2159,2026-04-22 01:35:05.317347584,New York,6263,Standard,Steel,Valjoux 72 unmodified,None,Single owner,33200,69400,82500.0,Asia
+WD-2160,2026-03-01 15:47:46.058162432,Hong Kong,6262,Tropical,Acrylic,Valjoux 72 unmodified,Full set,Single owner,90000,187100,341700.0,Asia
+WD-2161,2022-03-07 02:37:13.965486336,New York,6265,Standard,Acrylic,Valjoux 727,None,Single owner,61400,114700,98900.0,Asia
+WD-2162,2025-01-10 14:02:59.194140928,Hong Kong,6263,Standard,Steel,Valjoux 72 unmodified,None,Single owner,22200,44000,33500.0,Asia
+WD-2163,2022-11-03 06:37:49.271967744,New York,6265,Exotic 'Paul Newman',Acrylic,Valjoux 727,Partial papers,Single owner,21500,47100,126200.0,US
+WD-2164,2021-11-08 21:21:57.292096000,New York,6241,Standard,Steel,Valjoux 727,None,Single owner,53700,111100,100900.0,US
+WD-2165,2024-07-19 20:52:48.636979968,Geneva,6264,Tropical,Steel,Valjoux 72 unmodified,Partial papers,Celebrity,36000,64200,126500.0,Asia
+WD-2166,2023-09-02 16:34:23.317745664,Hong Kong,6263,Exotic 'Paul Newman',Steel,Valjoux 72 unmodified,Partial papers,Single owner,39400,78100,213900.0,Europe
+WD-2167,2023-11-16 08:13:26.273102592,Hong Kong,6263,Sigma,Acrylic,Valjoux 72 unmodified,None,Single owner,76100,145700,127000.0,Europe
+WD-2168,2025-05-30 02:32:48.829369856,New York,6265,Standard,18K Gold,Valjoux 72 unmodified,Partial papers,Single owner,63100,131600,119200.0,Europe
+WD-2169,2022-10-17 21:56:09.019126272,Hong Kong,6263,Standard,Steel,Valjoux 72 unmodified,Full set,Single owner,88800,184100,272700.0,Asia
+WD-2170,2024-07-22 03:59:37.141035776,Geneva,6265,Exotic 'Paul Newman',Steel,Valjoux 72 unmodified,Full set,Named collection,12600,22000,97900.0,US
+WD-2171,2022-12-14 14:36:22.582880768,Hong Kong,6263,Standard,Steel,Valjoux 72 unmodified,Partial papers,Single owner,46600,96400,106000.0,Asia
+WD-2172,2021-03-25 03:22:36.717212416,Hong Kong,6239,Standard,Steel,Valjoux 72 unmodified,None,Single owner,60700,129600,112100.0,Other
+WD-2173,2023-01-06 14:49:03.262932736,Hong Kong,6263,Exotic 'Paul Newman',18K Gold,Valjoux 72 unmodified,None,Single owner,16000,34500,43600.0,Asia
+WD-2174,2026-01-23 18:24:34.450149376,New York,6262,Sigma,Steel,Valjoux 727,Full set,Single owner,27000,48100,68600.0,Asia
+WD-2175,2023-07-30 10:17:27.468446720,Hong Kong,6265,Exotic 'Paul Newman',Steel,Valjoux 72 unmodified,Partial papers,Celebrity,24200,46100,306600.0,Asia
+WD-2176,2021-07-30 14:47:39.559304704,Geneva,6264,Standard,Steel,Valjoux 72 unmodified,Partial papers,Single owner,40500,79900,58100.0,Europe
+WD-2177,2024-08-31 12:15:51.261074176,Hong Kong,6239,Standard,18K Gold,Valjoux 727,Full set,Named collection,106200,195900,273200.0,Europe
+WD-2178,2026-02-18 17:40:08.937313792,New York,6239,Exotic 'Paul Newman',Steel,Valjoux 72 unmodified,None,Single owner,134600,265300,1007400.0,Europe
+WD-2179,2025-11-02 20:40:29.260570624,Hong Kong,6239,Standard,Acrylic,Valjoux 727,Partial papers,Celebrity,24500,43900,62200.0,Asia
+WD-2180,2024-01-19 00:51:32.288368640,Hong Kong,6262,Standard,Steel,Valjoux 72 unmodified,None,Single owner,54900,99300,94200.0,US

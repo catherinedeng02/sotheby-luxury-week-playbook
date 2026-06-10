@@ -1,0 +1,24 @@
+# Virtual environment — never commit (hundreds of MB)
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# MkDocs build output — gh-deploy handles this separately
+site/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Temp PDF build artifact (we keep the final, not the intermediate)
+output/_body_only.pdf
