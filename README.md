@@ -6,7 +6,7 @@ drivers and the HK–NY buyer corridor at Sotheby's Luxury Week auctions,
 
 **[→ Read the interactive report](https://catherinedeng02.github.io/sotheby-luxury-week-playbook/)**
 
-**[→ Download the PDF report](output/luxury_week_playbook.pdf)**
+**[→ Download the report](output/luxury_week_playbook.pdf)**
 
 ---
 
