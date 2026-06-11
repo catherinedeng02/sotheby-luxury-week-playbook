@@ -4,7 +4,7 @@ An independent market intelligence report analyzing cross-category premium
 drivers and the HK–NY buyer corridor at Sotheby's Luxury Week auctions,
 2021–2026.
 
-**[→ Read the interactive report](https://catherinedeng02.github.io/sotheby-luxury-week-playbook/)**
+**[→ Read the report](https://catherinedeng02.github.io/sotheby-luxury-week-playbook/)**
 
 **[→ Download the report](output/luxury_week_playbook.pdf)**
 
